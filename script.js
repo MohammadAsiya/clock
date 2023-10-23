@@ -1,3 +1,4 @@
+//javascript
 setInterval(()=>{
     d = new Date();
     htime = d.getHours();
