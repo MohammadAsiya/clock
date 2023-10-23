@@ -8,7 +8,7 @@
 }
 #hour,#minute,#second{
     position:absolute;
-    background:black;
+    background-color:black;
     border-radius:10px;
     transform-origin: bottom;
 }
